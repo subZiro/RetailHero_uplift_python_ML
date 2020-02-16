@@ -1,7 +1,7 @@
 # RetailHero_uplift_python_ML
 RetailHero Uplift model ML python 
 
-Описание файлов
+Описание файлов:
 
 	info.docx - краткая информация о соревновании
 
