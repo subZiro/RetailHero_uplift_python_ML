@@ -1,5 +1,5 @@
 # RetailHero_uplift_python_ML
-Решение ML соревнования по Uplift Modelling [Каким клиентам нужно отправить SMS?](https://retailhero.ai/c/uplift_modeling/overview)
+Решение ML соревнования по Uplift Modelling ['Каким клиентам нужно отправить SMS?'](https://retailhero.ai/c/uplift_modeling/overview)
 
 ## Best Public Leadboard: 0,0932
 
