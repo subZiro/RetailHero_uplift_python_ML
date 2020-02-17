@@ -31,4 +31,4 @@
 
 Cайт соревнования  [X5 Retail Hero](retailhero.ai/c/uplift_modeling/overview)
 
-Код создания фич взят из [scikit-uplift module](https://github.com/nersirion/nersirion-RetailHero.ai-uplift) by nersirion
+Код создания фич взят из [nersirion-RetailHero.ai-uplift](https://github.com/nersirion/nersirion-RetailHero.ai-uplift) by nersirion
