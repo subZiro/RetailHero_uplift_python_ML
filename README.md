@@ -14,4 +14,7 @@ RetailHero Uplift model ML python
 
 
 
-сайт соревнования - retailhero.ai/c/uplift_modeling/overview
+
+Ссылки
+Cайт соревнования - retailhero.ai/c/uplift_modeling/overview
+Данный ноутбук использует код из scikit-uplift module by Maksim Shevchenko
