@@ -27,7 +27,7 @@
 
 
 
-# Ссылки
+## Ссылки
 
 Cайт соревнования  [X5 Retail Hero](retailhero.ai/c/uplift_modeling/overview)
 
