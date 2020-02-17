@@ -30,4 +30,5 @@
 # Ссылки
 
 Cайт соревнования  [X5 Retail Hero](retailhero.ai/c/uplift_modeling/overview)
-Данный ноутбук использует код из [scikit-uplift module](https://github.com/maks-sh/scikit-uplift/) by Maksim Shevchenko
+
+Код создания фич взят из [scikit-uplift module](https://github.com/maks-sh/scikit-uplift/) by Maksim Shevchenko
