@@ -22,12 +22,12 @@
 	uplift_model_v4.5.ipynb - Uplift модель, обработка данных и предсказание модели в одном файле. 
 	Лучший результат на GradientBoostingClassifier() - Public = 0,0782
 	
-	submission_v4_05_02_22.csv - результат предсказания - Public = 0,0782, Private = 0,083865
-
-	Public = 0,0930, Private = 0,091635
-	
 	uplift_model_v5.5.ipynb - Uplift модель, обработка данных и предсказание модели в одном файле. 
 	Лучший результат на GradientBoostingClassifier() - 0,0930 
+	
+	submission_v4_05_02_22.csv - результат предсказания Public = 0,0782, Private = 0,083865
+
+	submission_v5.5_18_02_07.csv - результат предсказания Public = 0,0930, Private = 0,091635
 
 
 
