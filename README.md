@@ -3,8 +3,8 @@
 
 
 ### Final score: 0,091635 (place:37) L
-Best Public score: 0,0932
-Best Private score: 0,092252
+	Best Public score: 0,0932
+	Best Private score: 0,092252
 
 
 ## Описание подхода
