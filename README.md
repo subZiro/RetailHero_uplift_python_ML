@@ -1,7 +1,11 @@
 # RetailHero_uplift_python_ML
 Решение ML соревнования по Uplift Modelling ['Каким клиентам нужно отправить SMS?'](https://retailhero.ai/c/uplift_modeling/overview)
 
-## Best Public Leadboard: 0,0932
+
+## Best Public score: 0,0932
+## Best Private score: 0,092252
+
+## Final score: 0,091635 (place:37) L
 
 ## Описание подхода
 
@@ -28,9 +32,8 @@
 	submission_v4_05_02_22.csv - результат предсказания Public = 0,0782, Private = 0,083865
 
 	submission_v5.5_18_02_07.csv - результат предсказания Public = 0,0930, Private = 0,091635
-
-
-
+	
+	submission_v5_13_02_23.csv - результат предсказания Public: 0,0860, Private: 0,092252
 
 
 
